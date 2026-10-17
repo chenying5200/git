@@ -3,3 +3,13 @@ git clone //克隆线上仓库
 git push //向线上仓库提交
 git pull //从线上仓库更新到工作区
 //测试 git pull 指令
+
+git branch //查看分支
+git branch 分支名   //创建分支
+git checkout 分支名  //切换分支
+git branch -d 分支名 //删除分支
+git merge  被合并的分支名 //合并分支
+//分支操作
+// * 表示当前所在分支
+
+//ew
